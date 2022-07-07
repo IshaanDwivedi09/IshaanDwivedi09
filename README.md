@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishaandwivedi9101
 - 👀 I’m interested in Designing and Programming
-- 🌱 I’m currently learning Web C++ and Data Structures
+- 🌱 I’m currently learning Web Developement <br>C++ and <br>Data Structures
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
