@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ishaandwivedi9101
+- 👋 Hi, I’m Ishaan
 - 👀 I’m interested in Designing and Programming
-- 🌱 I’m currently learning Web Developement <br>C++ and <br>Data Structures
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently skilling up on <br>1. Web Developement <br>2. C++ <br>3. Data Structures
+<!-- - 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... --> 
 
 <!---
 ishaandwivedi9101/ishaandwivedi9101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
