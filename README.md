@@ -9,8 +9,8 @@ ishaandwivedi9101/ishaandwivedi9101 is a ✨ special ✨ repository because its 
 --->
 
 
-<p align ="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akshara604&show_icons=true&locale=en&theme=highcontrast" alt="akshara604" width = "48%"/>
- &nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshara604&theme=highcontrast" alt="akshara604" width="48%" /></p>
+<p align ="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akshara604&show_icons=true&locale=en&theme=highcontrast" alt="ishaandwivedi09" width = "48%"/>
+ &nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshara604&theme=highcontrast" alt="ishaandwivedi09" width="48%" /></p>
  <p align="center"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshara604&layout=compact&theme=highcontrast" width="42%"/></p>
 
 
