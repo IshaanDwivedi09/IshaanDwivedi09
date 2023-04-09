@@ -10,7 +10,7 @@
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanDwivedi09&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://ibb.co/1qb0V8Z"><img src="https://i.ibb.co/1qb0V8Z/octocat-1681055910084.png" alt="octocat-1681055910084" border="0" width=475px align="right"></a>
+<a href="https://ibb.co/1qb0V8Z"><img src="https://i.ibb.co/1qb0V8Z/octocat-1681055910084.png" alt="octocat-1681055910084" border="0" align="right"></a>
 
 ---
 
