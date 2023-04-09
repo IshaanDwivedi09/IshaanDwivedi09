@@ -1,8 +1,11 @@
 
 <p align="center">
   <a href="https://github.com/IshaanDwivedi09">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Ishaan Dwivedi" /></a>
+    <a href="https://ibb.co/CMd58Qq"><img src="https://i.ibb.co/CMd58Qq/ISHAAN-DWIVEDI.png" alt="ISHAAN-DWIVEDI" border="0"></a>
+  </a>
 </p>
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/ishaan-dwivedi-03675a201) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@iDev_iWD) 
