@@ -1,7 +1,7 @@
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <h3 align="center">⚔️ ISHAAN DWIVEDI ⚔️</h3>
+  <h2 align="center" font="Broadway">⚔️ ISHAAN DWIVEDI ⚔️</h2>
 </p>
 
 <p align="center">
