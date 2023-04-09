@@ -53,7 +53,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-4.7-red?style=flat&logo=openshift)
+![OpenShift](https://img.shields.io/badge/OpenShift-4.7-red?style=for-the-badge&logo=openshift)
+
 
 
 ---
