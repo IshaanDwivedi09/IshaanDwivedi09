@@ -12,6 +12,8 @@
 
 
 
+<img src = "https://pasteboard.co/2QrBrmx4sEOJ.png" align = "right" alt="my_octocat" width=475px>
+
 ---
 
 # 💻 Tech Stack:
