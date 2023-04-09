@@ -1,7 +1,7 @@
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <h1 color ="Red" align="center"> <span style="color:blue"> Ishaan Dwivedi</span> </h1>
+   <span style="color:blue"> <h1 color ="Red" align="center">Ishaan Dwivedi </h1></span>
 </p>
 
 <p align="center">
