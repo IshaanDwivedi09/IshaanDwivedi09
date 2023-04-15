@@ -39,6 +39,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 [![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=openshift)](https://www.openshift.com/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-bdd5d2?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
