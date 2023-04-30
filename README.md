@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Profile!;Have+fun+exploring+it!;&font=Broadway%80Code&center=true&width=450&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
+[![Banner Image](https://drive.google.com/drive/folders/1EJIobrDt8SjEoiw_k0YomJZNn8UpEYI2/LinkedInHeader.png)]
+
 [![](https://visitcount.itsvg.in/api?id=IshaanDwivedi09&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
