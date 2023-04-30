@@ -1,9 +1,10 @@
 
 <!-- markdownlint-disable MD033 MD041 -->
+<!--
 <p align="center">
    <h1 color ="Red" align="center">Ishaan Dwivedi </h1>
 </p>
-
+-->
 
 ![Banner Image](https://github.com/IshaanDwivedi09/IshaanDwivedi09/blob/main/LinkedIn%20Header.png)
 
